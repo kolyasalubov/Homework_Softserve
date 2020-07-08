@@ -1,0 +1,6 @@
+name = input("Whats your name?")
+print ("Hi", str(name))
+age = input("whats your age:")
+print("So you are ",str(age), "years old.", "Got it")
+city = input("Where are you from?:")
+print("Okay so your name is", str(name),"You are ",str(age) ," years old and you are from", str(city), ". Nice to met you")
